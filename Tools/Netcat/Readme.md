@@ -51,6 +51,7 @@ Netcat is a powerful tool that can be used for a variety of purposes. It is impo
 Official Netcat Tool Page :
 
 https://www.kali.org/tools/netcat/
+
 https://www.kali.org/tools/net-tools/
 
 ## Installation of Netcat (nc)
