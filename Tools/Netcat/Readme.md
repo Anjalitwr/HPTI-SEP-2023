@@ -85,8 +85,10 @@ Verify that Netcat is installed correctly:
     nc -h
     
 If the output includes help information for Netcat, then it is installed correctly.
+
     
 LOGO OF NETCAT : 
+
 ![Logo](https://www.kali.org/tools/netcat/images/netcat-logo.svg)
 
 
